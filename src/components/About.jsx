@@ -13,7 +13,7 @@ const About = () => {
           </p>
         </div>
 
-        <p className="text-xl mt-20">
+        <p className="text-xl mt-15">
         Welcome to my corner of the web! I'm Payel Dey, a passionate software developer with a keen interest in crafting innovative solutions. With a solid foundation of 2 years in the field, I've honed my skills in designing and building software that not only meets but exceeds expectations. My journey in the world of software development has been a dynamic one, marked by continuous learning and growth. I thrive on challenges and love to push the boundaries of what's possible in the realm of technology.
         </p>
 
