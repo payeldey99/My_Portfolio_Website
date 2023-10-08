@@ -1,6 +1,6 @@
 import React from "react";
 import portfolio from "../assets/portfolio/portfolio_website.jpg";
-import installNode from "../assets/portfolio/installNode.jpg";
+import comingsoon from "../assets/portfolio/comingsoon.png";
 import navbar from "../assets/portfolio/navbar.jpg";
 import reactParallax from "../assets/portfolio/reactParallax.jpg";
 import reactSmooth from "../assets/portfolio/reactSmooth.jpg";
@@ -14,23 +14,23 @@ const Portfolio = () => {
     },
     {
       id: 2,
-      src: reactParallax,
+      src: comingsoon,
     },
     {
       id: 3,
-      src: navbar,
+      src: comingsoon,
     },
     {
       id: 4,
-      src: reactSmooth,
+      src: comingsoon,
     },
     {
       id: 5,
-      src: installNode,
+      src: comingsoon,
     },
     {
       id: 6,
-      src: reactWeather,
+      src: comingsoon,
     },
   ];
 
