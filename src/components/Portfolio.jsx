@@ -1,6 +1,7 @@
 import React from "react";
 import portfolio from "../assets/portfolio/portfolio_website.jpg";
 import comingsoon from "../assets/portfolio/comingsoon.png";
+import restuarant from "../assets/portfolio/Restuarant-website.jpg";
 
 const Portfolio = () => {
   const portfolios = [
@@ -10,7 +11,7 @@ const Portfolio = () => {
     },
     {
       id: 2,
-      src: comingsoon,
+      src: restuarant,
     },
     {
       id: 3,
