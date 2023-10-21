@@ -3,6 +3,7 @@ import portfolio from "../assets/portfolio/portfolio_website.jpg";
 import comingsoon from "../assets/portfolio/comingsoon.png";
 import restuarant from "../assets/portfolio/Restuarant-website.jpg";
 import chatroom from "../assets/portfolio/chatroom.jpg";
+import student from "../assets/portfolio/studentapp.jpg";
 
 const Portfolio = () => {
   const portfolios = [
@@ -23,8 +24,8 @@ const Portfolio = () => {
     },
     {
       id: 4,
-      src: comingsoon,
-      github: "",
+      src: student,
+      github: "https://github.com/payeldey99/student_management_app",
     },
     {
       id: 5,
